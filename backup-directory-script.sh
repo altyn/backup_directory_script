@@ -3,7 +3,7 @@
 
 PATH_TARGET="/target/path"
 PATH_BACKUP="/target/to/backup"
-ARC_NAME="bafe-site"
+ARC_NAME="backup"
 NOW="$(date +"%d-%m-%Y_%H-%M")"
 
 echo "archiving files"
